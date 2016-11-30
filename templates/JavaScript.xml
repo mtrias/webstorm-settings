@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="f" value="function ($VAR$)&#10;{&#10;    $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>

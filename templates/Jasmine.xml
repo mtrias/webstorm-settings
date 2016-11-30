@@ -1,0 +1,14 @@
+<templateSet group="Jasmine">
+  <template name="d" value="describe('$TXT$', function ()&#10;{&#10;    $END$&#10;});" description="suite" toReformat="false" toShortenFQNames="true">
+    <variable name="TXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('should $VAR$', function ()&#10;{&#10;    $END$&#10;});" description="test" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

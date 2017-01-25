@@ -6,6 +6,7 @@
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
   </component>
 </application>
